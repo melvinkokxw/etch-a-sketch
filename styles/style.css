@@ -1,6 +1,14 @@
+#resetButton {
+  display: block;
+  margin: 50px auto;
+  padding: 20px;
+  font-size: 10em;
+}
+
 .container {
   display: grid;
-  grid-template-columns:
+  width: 80%;
+  margin: 0 auto;
 }
 
 .cell {

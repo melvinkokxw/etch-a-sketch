@@ -1,0 +1,9 @@
+.container {
+  display: grid;
+  grid-template-columns:
+}
+
+.cell {
+  padding-bottom: 100%;
+  border: 1px solid black;
+}

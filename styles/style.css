@@ -1,13 +1,14 @@
 #resetButton {
   display: block;
-  margin: 50px auto;
-  padding: 20px;
-  font-size: 10em;
+  margin: 2vmin auto 3vmin auto;
+  padding: 2vmin;
+  font-size: 2vmin;
 }
 
 .container {
   display: grid;
   width: 80%;
+  max-width: 80vmin;
   margin: 0 auto;
 }
 
